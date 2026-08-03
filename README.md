@@ -1,2 +1,4 @@
-# hash-go-35
+# Hash Go 35
+
 Hashing functions for strings in Go.
+
